@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <!-- replace WEBSITE with the address where this site is being hosted -->
    <url>
-       <loc>WEBSITE</loc>
+       <loc>https://franyancr.github.io/pcs_2025</loc>
    </url>
    <url>
-       <loc>WEBSITE/registration</loc>
+       <loc>https://franyancr.github.io/pcs_2025/registration</loc>
    </url>
    <url>
-       <loc>WEBSITE/program</loc>
+       <loc>https://franyancr.github.io/pcs_2025/program</loc>
    </url>
    <url>
-       <loc>WEBSITE/directions</loc>
+       <loc>https://franyancr.github.io/pcs_2025/directions</loc>
+   </url>'
+   <url>
+       <loc>https://franyancr.github.io/pcs_2025/travel</loc>
    </url>
 </urlset> 
 
